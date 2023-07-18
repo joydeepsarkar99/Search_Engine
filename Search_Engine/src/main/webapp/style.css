@@ -1,0 +1,48 @@
+.search{
+    background-color: #4CAF50;
+    color: white;
+    border: 1px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 9px 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.history{
+    background-color: #2b66e3;
+    color: white;
+    border: 1px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 9px 17px;
+    margin: 0px 2px;
+    cursor: pointer;
+}
+
+input[type = text]{
+     width: 30%;
+     border: 2px solid black;
+     border-radius: 4px;
+     padding: 8px 16px;
+}
+body{
+    text-align: center;
+}
+.showTable{
+    display: inline-block;
+}
+
+h1{
+     /* Create a linear gradient with multiple colors */
+     background: linear-gradient(to right, red, green, blue, yellow);
+     /* Set the background clip to text so the gradient applies to the text only */
+     -webkit-background-clip: text;
+     background-clip: text;
+     /* Set the text color to transparent to see the gradient effect */
+     color: transparent;
+     font-weight: bolder;
+     font-family: sans-serif;
+     margin-bottom: 5px;
+}
