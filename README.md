@@ -4,14 +4,21 @@
 ➡️ A search engine is a powerful tool that enables users to find information and other content on the internet. In this project, we aim to build a simple search engine from scratch and gain a deeper understanding of how it functions behind the scenes. The search engine will utilize Term Frequencies (TFs) in its web crawling process using indexer, enabling efficient data retrieval.
 
 ➡️ Technologies used in this project include :
+
 • Front-end : HTML,CSS,JSP
+
 • Back-end : Java Servlets
+
 • Database : MySQL
+
 • Other Technologies used - IntelliJ IDEA, Maven Archetype, Tomcat Server, JDBC(ConnectorJ)
 
 ➡️ The primary components of our search engine project are the front end, back end, and database. 
+
 • The front end is responsible for the user interface, where users can interact with the search engine through a search bar and search button.
+
 • The back end handles the server-side operations, processing user requests and generating appropriate responses.
+
 • The database stores and manages the data that the search engine will use to retrieve relevant results.
 
 ➡️ The front-end design includes a web application with a simple search bar and a search button. When users input their queries and click the search button, the back end processes the search request and retrieves the top 30 results using Ranking Algorithm based on the user's query. The search history of users is also displayed, allowing them to keep track of their previous searches.
