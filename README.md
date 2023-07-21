@@ -1,5 +1,4 @@
-# Search_Engine
- Experience the ultimate search journey with my fully functional DFS-driven search engine "QUEST", revolutionizing the way you explore the web.🚀
+Experience the ultimate search journey with my fully functional DFS-driven search engine "GLANCE", revolutionizing the way you explore the web.🚀
 
 ➡️ A search engine is a powerful tool that enables users to find information and other content on the internet. In this project, we aim to build a simple search engine from scratch and gain a deeper understanding of how it functions behind the scenes. The search engine will utilize Term Frequencies (TFs) in its web crawling process using indexer, enabling efficient data retrieval.
 
@@ -31,13 +30,14 @@
 
 ➡️ BELOW ARE SOME SCREENSHOTS OF THE SEARCH ENGINE :
 
-![SE_Image1](https://github.com/joydeepsarkar99/Search_Engine/assets/138491246/82f0c9a0-d585-4d89-822c-1d8b41b3fabc)
+![Screenshot (484)](https://github.com/joydeepsarkar99/Search_Engine/assets/138491246/74eca75b-256d-446c-a45d-7b9a2e6ae31f)
 
-![SE_Image2](https://github.com/joydeepsarkar99/Search_Engine/assets/138491246/edd5abeb-6615-4653-863b-4db2b7f3d03b)
+![Screenshot (485)](https://github.com/joydeepsarkar99/Search_Engine/assets/138491246/26f88ff2-0853-450f-b543-9e75a25bf13a)
 
-![SE_Image3](https://github.com/joydeepsarkar99/Search_Engine/assets/138491246/cb0262fe-bd1f-47fb-bc8a-0d0cfa705886)
+![Screenshot (486)](https://github.com/joydeepsarkar99/Search_Engine/assets/138491246/7964598d-6d31-4034-9de6-9954c3382ab1)
 
-![SE_Image4](https://github.com/joydeepsarkar99/Search_Engine/assets/138491246/ba2f177c-1097-4b91-8a6e-b9159e670d70)
+![Screenshot (487)](https://github.com/joydeepsarkar99/Search_Engine/assets/138491246/6f930a61-a523-4185-89e5-07e4815e9cc5)
 
+![Screenshot (488)](https://github.com/joydeepsarkar99/Search_Engine/assets/138491246/0e511e51-2316-4bc7-bb0f-3c28282e75db)
 
 
