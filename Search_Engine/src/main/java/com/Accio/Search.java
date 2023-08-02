@@ -30,7 +30,7 @@ public class Search extends HttpServlet {
             preparedStatement.executeUpdate();
 
             //Setting results after the ranking query
-            ResultSet resultSet = connection.createStatement().executeQuery("select distinct pageTitle, pageLink, (length(lower(pageText))-length(replace(lower(pageText), '" + keyword.toLowerCase() + "', '')))/length('" + keyword.toLowerCase() + "') as countoccurence from pages order by countoccurence desc limit 30;");
+            ResultSet resultSet = connection.createStatement().executeQuery("select pageTitle, pageLink, (length(lower(pageText))-length(replace(lower(pageText), '" + keyword.toLowerCase() + "', '')))/length('" + keyword.toLowerCase() + "') as countoccurence from pages order by countoccurence desc limit 30;");
             ArrayList<SearchResult> results = new ArrayList<SearchResult>();
             //Transferring values from resultSet to results arraylist
             while (resultSet.next()) {
