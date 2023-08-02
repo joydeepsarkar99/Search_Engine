@@ -8,7 +8,6 @@ create table pages(
     pageText mediumtext
 );
 select * from pages;
-select distinct pageTitle, pageLink, (length(lower(pageText))-length(replace(lower(pageText), 'java', '')))/length('java') as countoccurence from pages order by countoccurence desc limit 30;
 
 
 create table history(
